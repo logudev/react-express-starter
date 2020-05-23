@@ -1,0 +1,10 @@
+ul {
+    list-style: none;
+    margin: auto;
+    padding: 0;
+    width: 30%;
+}
+
+li {
+    border-bottom: 1px dotted #777;
+}
